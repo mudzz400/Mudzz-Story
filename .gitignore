@@ -1,0 +1,13 @@
+.env
+*.db
+*.db-*
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+private_downloads/*
+!private_downloads/.gitkeep
+static/uploads/*
+!static/uploads/.gitkeep
+static/qr_deposits/*
+!static/qr_deposits/.gitkeep
